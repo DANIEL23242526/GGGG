@@ -214,3 +214,17 @@ a:active{
 	text-decoration:none;
 	margin-left:540px;
 }
+@media (min-width:1000px){
+	section{
+		width:700px;
+	}
+	aside{
+		width:300px;
+	}
+	.tyr{
+		margin-left:1070px;
+	}
+	.k4{
+	width:883px;
+	height:130px;
+}
