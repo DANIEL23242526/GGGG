@@ -45,3 +45,16 @@ h4{
 	transform:skew(15deg, 0deg);
 	display:inline-block;
 }
+.t0t1{
+	border:5px solid black;
+	radius-dorder:50%;
+	height:150px;
+	float:left;
+}
+.t0t2{
+	color:#59178C;
+	font-weight:bold;
+	font-style:italic;
+	font-size:15px;
+	backgroundcolor:red;
+}
